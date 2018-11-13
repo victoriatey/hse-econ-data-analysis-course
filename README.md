@@ -8,7 +8,7 @@
 ## Ход курса
 
 
-* [Занятие 1 (2018.11.10).](https://github.com/magnitofonov/hse-econ-data-analysis-course/week_01) Основы языка python. 
+* [Занятие 1 (2018.11.10).](https://github.com/magnitofonov/hse-econ-data-analysis-course/tree/master/week_01) Основы языка python. 
 	* Основные типы данных языка python. Полезные методы работы со строками. Работа с файлами 
 	* **Крайний срок сдачи домашнего задания: 2018.11.16 23:59, пятница.** 
 
